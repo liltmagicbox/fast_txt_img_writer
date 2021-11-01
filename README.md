@@ -4,15 +4,19 @@ notepad +image. +.py pack-save.
 I used notepad for work-record, but no more!
 
 ctrl+c image or imgfile and ctrl+v to paste.
-use the paint for notation.
+use the paint for draw notation.
+*avove 80% was just crop the screenshot.
 
 ctrl+b to crop screenshot directly. very fast.
+* before I was: press prtscr, open paint, ctrl+v, click cropbutton, crop, ctrl+c. nomore!
 
-type"[]" and ctrl+f entire python code, it will dump to txtfilename_hrminsec.py
-
+type"[]" and ctrl+f entire python code, it will dump to txtfilename_{hr}{min}{sec}.py
+*crop screenshot, and freeze python code, very easy to reproduce.
 
 saves img with txt, and loads.
 it saves png. no even load gif.
+
+if the file not saved yet(or changed), occurs isit ok msg.
 
 ===============
 
